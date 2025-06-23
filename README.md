@@ -82,6 +82,7 @@ Register number : 212224240015
 
 
 ```
+```py
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
